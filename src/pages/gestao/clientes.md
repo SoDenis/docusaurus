@@ -4,7 +4,7 @@ Documentação de como gerir clientes
 
 ## Criar clientes
 
-Para criar um cliente ir á pagina [Novo Cloente](www.google.com)
+Para criar um cliente ir á pagina
 
 ## Actualixar clientes
 
